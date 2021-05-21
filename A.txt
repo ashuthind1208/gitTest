@@ -1,5 +1,9 @@
 Hello again and again
 
-merged branch
 
+merged branch
 Change C2 - master
+
+hello branch b2
+Change C1 - B2
+
